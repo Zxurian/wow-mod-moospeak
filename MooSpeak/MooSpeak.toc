@@ -1,0 +1,11 @@
+## Interface: 16001, 120105, 50504, 20506, 11509
+## Title: MooSpeak
+## Notes: Speak Taur-ahe! Your chat is sent as moos; anyone with MooSpeak sees it translated.
+## Version: 0.1
+## IconTexture: Interface\Icons\Spell_Nature_Polymorph_Cow
+## AddonCompartmentFunc: MooSpeak_OnAddonCompartmentClick
+## SavedVariablesPerCharacter: MooSpeakDB
+
+Codec.lua
+Core.lua
+UI.lua
